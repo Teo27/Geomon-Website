@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2015\Projects\GeomonAzure\ClassLibrary\bin\Release\ClassLibrary.dll
+c:\users\dell\documents\visual studio 2015\Projects\GeomonAzure\ClassLibrary\bin\Release\ClassLibrary.pdb
+c:\users\dell\documents\visual studio 2015\Projects\GeomonAzure\ClassLibrary\obj\Release\ClassLibrary.dll
+c:\users\dell\documents\visual studio 2015\Projects\GeomonAzure\ClassLibrary\obj\Release\ClassLibrary.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\GeomonAzure\ClassLibrary\obj\Release\ClassLibrary.csprojResolveAssemblyReference.cache
