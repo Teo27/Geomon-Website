@@ -1,5 +1,5 @@
 # Geomon-Website
-The server and website part of my 4th semester project (Geomon)
+
 This is the code for the server part as well as the website part of the Geomon project.
 
 In here I was supposed to create a WCF service, which would have both REST and SOAP based services. At first I had a selfhosting server,
